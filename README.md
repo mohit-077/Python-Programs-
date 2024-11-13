@@ -29,7 +29,6 @@ Program 5 Output
 ![1000010246](https://github.com/user-attachments/assets/0d160d1c-ad55-4edd-961b-c7317d669f6c)
 
 
-
 Program 6 Output
 ![1000010250](https://github.com/user-attachments/assets/b279f1ac-15a0-4513-8945-0cd78dad5a9c)
 
@@ -40,4 +39,20 @@ Program 7 Output
 
 Program 8 Output
 ![1000010252](https://github.com/user-attachments/assets/5c09f284-3deb-466f-a696-79c14c86add5)
+
+
+Program 10 Output
+![1000012521](https://github.com/user-attachments/assets/6637534e-8179-4531-acbc-ca9c750a7e0e)
+
+
+Program 11 Output
+![1000012525](https://github.com/user-attachments/assets/0d3edf5d-ab4a-4733-b908-d2eeaa91eb8b)
+![1000012524](https://github.com/user-attachments/assets/2e356cfd-be51-4466-85c3-3214d27d0dcf)
+![1000012523](https://github.com/user-attachments/assets/df619759-7e40-460d-835b-12b515968821)
+![1000012522](https://github.com/user-attachments/assets/a4aa8de1-3b2f-4c90-bdb6-6fa242a43a9f)
+
+
+Program 12 Output
+![1000012526](https://github.com/user-attachments/assets/b9e81ccd-244f-4956-9387-785fe87e2ab9)
+
 
